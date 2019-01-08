@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/react---tic-toe-game.iml" filepath="$PROJECT_DIR$/.idea/react---tic-toe-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-book-tasks.iml" filepath="$PROJECT_DIR$/.idea/react-book-tasks.iml" />
     </modules>
   </component>
 </project>
